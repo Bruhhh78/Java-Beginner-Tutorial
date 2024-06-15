@@ -9,7 +9,7 @@ public class TakingInputsI {
          * next() - reads the first word
          * we have datatypes for char data => nextLine().charAt(0)
          */
-        System.out.println("7 - This is Taking Input  file");
+        System.out.println("7 - This is Taking Integer Input file");
 
         Scanner sc = new Scanner(System.in); // For taking input
         System.out.println("Please Koi Value Dedo Cutie💖");

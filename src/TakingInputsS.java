@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class TakingInputsS {
     public static void main(String[] args) {
-        System.out.println("8 - This is Taking Input  file");
+        System.out.println("8 - This is Taking String Input file");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a text: ");
         // String Text = sc.nextLine();

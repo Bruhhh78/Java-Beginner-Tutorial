@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TakingInputs {
+public class TakingInputsI {
     public static void main(String[] args) {
         /*
          * we have datatypes for numbers like we have => nextShort(), nextInt(),
